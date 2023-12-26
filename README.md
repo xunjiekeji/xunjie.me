@@ -1,7 +1,7 @@
 # 永久防迷路发布地址
 
 ### 风速之家域名
-临时域名 1:  https://xunjie616.top </br>
+临时域名 1：https://xunjie616.top </br>
 临时域名 2：https://fenchi.work </br>
 临时域名 3：https://hellowind.work </br></br>
 永久域名：https://xunjie.me </br>
