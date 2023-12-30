@@ -2,8 +2,10 @@
 
 ### 风速之家域名
 临时域名 1：https://xunjie616.top </br>
-临时域名 2：https://fenchi.work </br>
-临时域名 3：https://hellowind.work </br></br>
+临时域名 2：https://xunjie618.shop </br>
+临时域名 3：https://hellowind.me </br>
+临时域名 4：https://hellowind.work </br>
+临时域名 5：https://fenchi.work </br></br>
 永久域名：https://xunjie.me </br>
 温馨提示：临时域名国内可访问，临时域名被墙会随时更新，永久域名开全局代理访问. </br>
 
