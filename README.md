@@ -9,17 +9,21 @@
 
 查看小火箭更新节点方案二
 
-临时域名 1:  https://xunjie618.shop
+临时域名 1:  https://xunjie78.com
 
-临时域名 2:  https://fengchi616.shop
+临时域名 2:  https://xunjie778.life
 
-临时域名 3:  https://hellowind.me
+临时域名 4:  https://hellowind.me
 
-临时域名 4:  https://fenchi.work
+临时域名 5:  https://hellowind.me
 
-临时域名 5:  https://hellowind.work
+临时域名 6:  https://xunjie618.shop
 
-临时域名 6:  https://fengmama.world
+临时域名 7:  https://fengchi616.shop
+
+临时域名 8:  https://fenchi.work
+
+临时域名 9:  https://fengmama.world
 
 永久域名：https://xunjie.me
 
