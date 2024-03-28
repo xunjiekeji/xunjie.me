@@ -21,7 +21,7 @@
 
 临时域名 5:  https://hellowind.me
 
-临时域名 6:  https://xunjie618.shop
+临时域名 6:  https://fengloveba.life
 
 临时域名 7:  https://fengchi616.shop
 
