@@ -3,6 +3,8 @@
 ### 风速之家域名
 新临时域名 :  https://xunjiefa.com
 
+永久域名：https://xunjie.me
+
 以下域名可能被封，可以尝试国内网络访问。
 
 查看小火箭更新节点方案一（推荐）
@@ -24,8 +26,6 @@
 临时域名 7:  https://fengchi616.shop
 
 临时域名 8:  https://fengmama.world
-
-永久域名：https://xunjie.me
 
 温馨提示：临时域名国内可访问，临时域名被墙会随时更新，永久域名开全局代理访问。
 
