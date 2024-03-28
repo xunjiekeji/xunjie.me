@@ -23,9 +23,7 @@
 
 临时域名 7:  https://fengchi616.shop
 
-临时域名 8:  https://fenchi.work
-
-临时域名 9:  https://fengmama.world
+临时域名 8:  https://fengmama.world
 
 永久域名：https://xunjie.me
 
