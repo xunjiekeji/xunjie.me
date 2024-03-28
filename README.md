@@ -1,7 +1,7 @@
 # 永久防迷路发布地址
 
 ### 风速之家域名
-新临时域名 :  
+新临时域名 :  https://xunjiefa.com
 
 以下域名可能被封，可以尝试国内网络访问。
 
@@ -9,9 +9,11 @@
 
 查看小火箭更新节点方案二
 
-临时域名 1:  https://xunjie78.com
+临时域名 1:  https://xunjie778.shop
 
-临时域名 2:  https://xunjie778.life
+临时域名 2:  https://xunjie78.com
+
+临时域名 3:  https://xunjie778.life
 
 临时域名 4:  https://hellowind.me
 
