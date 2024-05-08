@@ -9,7 +9,7 @@
 
 [查看小火箭更新节点方案一（推荐）](https://i.ibb.co/hL1js6J/shadowrocket-1.png)
 
-查看小火箭更新节点方案二
+[查看小火箭更新节点方案二](https://i.ibb.co/nQFjnRz/shadowrocket.png)
 
 临时域名 1:  https://xunjie778.shop
 
