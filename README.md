@@ -17,7 +17,7 @@
 
 临时域名 3:  https://xunjie778.life
 
-临时域名 4:  https://hellowind.me
+临时域名 4:  https://hellowind.work
 
 临时域名 5:  https://hellowind.me
 
