@@ -11,23 +11,25 @@
 
 [查看小火箭更新节点方案二](https://i.ibb.co/nQFjnRz/shadowrocket.png)
 
-临时域名 1:  https://xunjie778.shop
+临时域名 1: https://xun78jie.shop
 
-临时域名 2:  https://xunjie78.com
+临时域名 2: https://xunjie78.com （已墙）
 
-临时域名 3:  https://xunjie778.life
+临时域名 3: https://xunjie778.life
 
-临时域名 4:  https://hellowind.work
+临时域名 4: https://hellowind.work
 
-临时域名 5:  https://hellowind.me
+临时域名 5: https://hellowind.me
 
-临时域名 6:  https://fengloveba.life
+临时域名 6: https://fengloveba.life
 
-临时域名 7:  https://fengchi616.shop
+临时域名 7: https://fengchi616.shop
 
-临时域名 8:  https://fengmama.world
+临时域名 8: https://fengmama.world
 
-临时域名9 :  https://xunjiefa.com
+临时域名 9: https://xunjiefa.com
+
+临时域名 10: https://xunjie778.shop （已墙）
 
 温馨提示：临时域名国内可访问，临时域名被墙会随时更新，永久域名开全局代理访问。
 
