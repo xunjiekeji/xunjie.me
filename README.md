@@ -1,7 +1,7 @@
 # 永久防迷路发布地址
 
 ### 风速之家域名
-新临时域名 :  https://xunjie228.shop
+新临时域名: https://fengsuyun1.shop​ 
 
 永久域名：https://xunjie.me
 
@@ -11,7 +11,7 @@
 
 [查看小火箭更新节点方案二](https://i.ibb.co/nQFjnRz/shadowrocket.png)
 
-临时域名 1: https://xun78jie.shop
+临时域名 1: https://fengsuyun8.shop​
 
 临时域名 2: https://xunjie78.com （已墙）
 
@@ -30,6 +30,8 @@
 临时域名 9: https://xunjiefa.com
 
 临时域名 10: https://xunjie778.shop （已墙）
+
+临时域名 11: https://xun78jie.shop
 
 温馨提示：临时域名国内可访问，临时域名被墙会随时更新，永久域名开全局代理访问。
 
