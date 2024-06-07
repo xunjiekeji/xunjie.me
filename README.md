@@ -1,7 +1,7 @@
 # 永久防迷路发布地址
 
 ### 风速之家域名
-新临时域名: https://fengsuyun1.shop​ 
+新临时域名: https://we650jie.xyz
 
 永久域名：https://xunjie.me
 
