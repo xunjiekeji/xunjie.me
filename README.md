@@ -4,9 +4,9 @@
 
 温馨提示：临时域名国内可访问，永久域名开全局代理访问。
 
-临时域名 1: https://xun265jie.xyz
+临时域名 1: https://xun688jie.xyz
 
-临时域名 2: https://xun565jie.xyz
+临时域名 2: https://xun768jie.xyz
 
 永久域名：https://xunjie.me
 
