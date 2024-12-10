@@ -8,7 +8,7 @@
 
 临时域名 2: https://xun991.shop
 
-临时域名 3: https://xun996jie.xyz
+临时域名 3: https://xun998.me
 
 永久域名：https://xunjie.me
 
