@@ -18,9 +18,9 @@
 
 方案1【推荐】：`关闭VPN`开关，登录风速之家网站，重新导入节点，每次导入节点之前先`刷新网站`，如果更新失败，重复以上操作3-5次左右。重点：一定要刷新网站
 
-[查看小火箭更新节点方案2](https://i.ibb.co/hL1js6J/shadowrocket-1.png)
+[方案2：查看小火箭更新节点](https://i.ibb.co/hL1js6J/shadowrocket-1.png)
 
-[查看小火箭更新节点方案3](https://i.ibb.co/nQFjnRz/shadowrocket.png)
+[方案2：查看小火箭更新节点](https://i.ibb.co/nQFjnRz/shadowrocket.png)
 
 
 更新节点的方法：开启代理【全局模式】后更新节点列表（会员在有效期内）；
