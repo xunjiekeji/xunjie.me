@@ -6,7 +6,7 @@
 
 临时官网1: https://xun991.shop
 
-临时官网2: https://xun998.me
+临时官网2: https://melan.vip
 
 永久官网地址：https://xunjie.me （官网被墙，看提示1和提示2）
 
